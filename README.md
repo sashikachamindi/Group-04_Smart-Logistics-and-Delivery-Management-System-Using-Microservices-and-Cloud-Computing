@@ -1,4 +1,5 @@
-# Group-04_Smart-Logistics-and-Delivery-Management-System-Using-Microservices-and-Cloud-Computing
-# System Architecture
+# Group-04 Smart Logistics and Delivery Management System Using Microservices and Cloud Computing
 
-![System Architeccheture](images/architecture.jpeg)
+## System Architecture
+
+![System Architecture](images/new%20architecture%20diagram.jpeg)
