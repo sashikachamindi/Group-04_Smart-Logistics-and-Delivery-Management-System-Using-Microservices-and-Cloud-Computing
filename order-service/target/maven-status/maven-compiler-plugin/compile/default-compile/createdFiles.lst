@@ -1,0 +1,5 @@
+Group04\order_service\OrderServiceApplication.class
+Group04\order_service\controller\OrderController.class
+Group04\order_service\model\Order.class
+Group04\order_service\repository\OrderRepository.class
+Group04\order_service\model\Order$Status.class
